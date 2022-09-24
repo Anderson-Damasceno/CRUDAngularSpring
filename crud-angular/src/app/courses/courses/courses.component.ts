@@ -34,6 +34,8 @@ export class CoursesComponent implements OnInit {
   }
 
   ngOnInit(): void {
+    // TODO document why this method 'ngOnInit' is empty
+
 
   }
 }
